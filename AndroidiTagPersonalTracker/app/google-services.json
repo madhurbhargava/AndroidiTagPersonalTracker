@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239831625857",
+    "firebase_url": "https://androiditagpersonaltracker.firebaseio.com",
+    "project_id": "androiditagpersonaltracker",
+    "storage_bucket": "androiditagpersonaltracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239831625857:android:051b2b95fc23b6c6",
+        "android_client_info": {
+          "package_name": "android.packt.com.androiditagpersonaltracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239831625857-o4k5cveltajdagk53n0r281pqirl8i0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.packt.com.androiditagpersonaltracker",
+            "certificate_hash": "aff2a856d74e1b80002061b7f65b19304a5150bf"
+          }
+        },
+        {
+          "client_id": "239831625857-s8bmuj65240ianvtftlik4mil0n61chm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv__mpf_wXcIAtDtm3-QxWhLJQ981ce2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239831625857-s8bmuj65240ianvtftlik4mil0n61chm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
