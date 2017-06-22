@@ -243,6 +243,6 @@ public class MainActivity extends AppCompatActivity {
          *
          * d = 10 ^ ((TxPower - RSSI) / (10 * n))
          */
-        return (Math.pow(10d, ((double) txPower - rssi) / (10 * 4)))/100;
+        return (Math.pow(10d, ((double) txPower - rssi) / (10 * 4)))/10;
     }
 }
